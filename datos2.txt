@@ -1,3 +1,4 @@
-juego de bosque
-juego de isla
-juego de mar
+Tipos:
+Juego de bosque
+Juego de isla
+Juego de mar
