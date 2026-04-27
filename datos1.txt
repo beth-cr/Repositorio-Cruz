@@ -1,0 +1,5 @@
+nombres
+apellidos
+edad
+dni
+cuenta bancaria
