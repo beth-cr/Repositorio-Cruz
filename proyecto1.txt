@@ -1,5 +1,6 @@
-login
-usuario
-actividad
-registro
-cambio
+Entrada:
+Login
+Usuario
+Actividad
+Registro
+Compras
